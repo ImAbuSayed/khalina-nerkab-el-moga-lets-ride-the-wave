@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في ليلي الطويل
+> نار الشوق في قلبي دليل
+> روحي تنادي وعيوني تسيل
+> في أحضاني يشفى القلب العليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
