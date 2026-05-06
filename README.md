@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/khalina-nerkab-el-moga-lets-ride-the-wave/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Khalina Nerkab El Moga – Let's ride the wave.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
